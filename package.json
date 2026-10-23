@@ -1,0 +1,32 @@
+{
+  "name": "luluxlabs-site",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Official website of LULUX (luluxlabs.github.io).",
+  "license": "Apache-2.0",
+  "author": "koko2376",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/luluxlabs/luluxlabs.github.io.git"
+  },
+  "type": "module",
+  "engines": {
+    "node": ">=22.12"
+  },
+  "scripts": {
+    "build": "node scripts/build.mjs --strict",
+    "serve": "node scripts/serve.mjs",
+    "dev": "node scripts/build.mjs && node scripts/serve.mjs",
+    "test": "node --test \"test/**/*.test.mjs\"",
+    "check:i18n": "node scripts/check-i18n.mjs",
+    "check:html": "html-validate \"dist/**/*.html\"",
+    "check:links": "node scripts/check-links.mjs",
+    "check:budgets": "node scripts/check-budgets.mjs",
+    "check": "npm run check:i18n && npm test && npm run build && npm run check:html && npm run check:links && npm run check:budgets",
+    "release:snapshot": "node scripts/release-snapshot.mjs",
+    "art": "python3 scripts/assets/art.py"
+  },
+  "devDependencies": {
+    "html-validate": "11.17.0"
+  }
+}

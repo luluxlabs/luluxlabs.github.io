@@ -1,0 +1,22 @@
+{
+  "$comment": "Paintings used on the site. To swap one: replace its master in art-src/ (or run `npm run art -- <id>=/path/to/new.png`), adjust the focal points below, then commit the regenerated renditions. `position` is the CSS object-position on wide screens, `positionMobile` on screens up to 760px wide, `side` is where the subject sits (the headline goes on the other side), `tone` is `dark` for a painting that needs light text over it.",
+  "widths": [
+    768,
+    1376,
+    1920,
+    2560
+  ],
+  "items": {
+    "hero": {
+      "source": "art-src/home-hero.png",
+      "side": "right",
+      "position": "100% 50%",
+      "positionMobile": "74% 50%",
+      "ratio": [
+        1584,
+        672
+      ],
+      "tone": "dark"
+    }
+  }
+}
