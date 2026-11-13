@@ -27,6 +27,6 @@
     "art": "python3 scripts/assets/art.py"
   },
   "devDependencies": {
-    "html-validate": "11.17.0"
+    "html-validate": "11.21.0"
   }
 }
