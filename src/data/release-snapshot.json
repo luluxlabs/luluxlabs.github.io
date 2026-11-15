@@ -1,98 +1,98 @@
 {
   "_comment": "Snapshot of the GitHub releases/latest API for koko2376/lulux-eta, used for the static (no-JS) download links. Refresh with: npm run release:snapshot",
-  "tag_name": "v0.1.4",
-  "published_at": "2026-11-14T02:51:04Z",
-  "html_url": "https://github.com/koko2376/lulux-eta/releases/tag/v0.1.4",
+  "tag_name": "v0.1.4.1",
+  "published_at": "2026-11-15T14:49:36Z",
+  "html_url": "https://github.com/koko2376/lulux-eta/releases/tag/v0.1.4.1",
   "assets": [
     {
       "name": "latest-linux-arm64.yml",
-      "size": 394,
-      "browser_download_url": "https://github.com/koko2376/lulux-eta/releases/download/v0.1.4/latest-linux-arm64.yml"
+      "size": 400,
+      "browser_download_url": "https://github.com/koko2376/lulux-eta/releases/download/v0.1.4.1/latest-linux-arm64.yml"
     },
     {
       "name": "latest-linux.yml",
-      "size": 396,
-      "browser_download_url": "https://github.com/koko2376/lulux-eta/releases/download/v0.1.4/latest-linux.yml"
+      "size": 402,
+      "browser_download_url": "https://github.com/koko2376/lulux-eta/releases/download/v0.1.4.1/latest-linux.yml"
     },
     {
       "name": "latest-mac.yml",
-      "size": 831,
-      "browser_download_url": "https://github.com/koko2376/lulux-eta/releases/download/v0.1.4/latest-mac.yml"
+      "size": 843,
+      "browser_download_url": "https://github.com/koko2376/lulux-eta/releases/download/v0.1.4.1/latest-mac.yml"
     },
     {
       "name": "latest.yml",
-      "size": 363,
-      "browser_download_url": "https://github.com/koko2376/lulux-eta/releases/download/v0.1.4/latest.yml"
+      "size": 369,
+      "browser_download_url": "https://github.com/koko2376/lulux-eta/releases/download/v0.1.4.1/latest.yml"
     },
     {
-      "name": "LULUX-ETA-0.1.4-linux-arm64.AppImage",
-      "size": 140305865,
-      "browser_download_url": "https://github.com/koko2376/lulux-eta/releases/download/v0.1.4/LULUX-ETA-0.1.4-linux-arm64.AppImage"
+      "name": "LULUX-ETA-0.1.4.1-linux-arm64.AppImage",
+      "size": 140318187,
+      "browser_download_url": "https://github.com/koko2376/lulux-eta/releases/download/v0.1.4.1/LULUX-ETA-0.1.4.1-linux-arm64.AppImage"
     },
     {
-      "name": "LULUX-ETA-0.1.4-linux-x86_64.AppImage",
-      "size": 139091009,
-      "browser_download_url": "https://github.com/koko2376/lulux-eta/releases/download/v0.1.4/LULUX-ETA-0.1.4-linux-x86_64.AppImage"
+      "name": "LULUX-ETA-0.1.4.1-linux-x86_64.AppImage",
+      "size": 139103405,
+      "browser_download_url": "https://github.com/koko2376/lulux-eta/releases/download/v0.1.4.1/LULUX-ETA-0.1.4.1-linux-x86_64.AppImage"
     },
     {
-      "name": "LULUX-ETA-0.1.4-mac-arm64.dmg",
-      "size": 142126698,
-      "browser_download_url": "https://github.com/koko2376/lulux-eta/releases/download/v0.1.4/LULUX-ETA-0.1.4-mac-arm64.dmg"
+      "name": "LULUX-ETA-0.1.4.1-mac-arm64.dmg",
+      "size": 142101641,
+      "browser_download_url": "https://github.com/koko2376/lulux-eta/releases/download/v0.1.4.1/LULUX-ETA-0.1.4.1-mac-arm64.dmg"
     },
     {
-      "name": "LULUX-ETA-0.1.4-mac-arm64.dmg.blockmap",
-      "size": 149669,
-      "browser_download_url": "https://github.com/koko2376/lulux-eta/releases/download/v0.1.4/LULUX-ETA-0.1.4-mac-arm64.dmg.blockmap"
+      "name": "LULUX-ETA-0.1.4.1-mac-arm64.dmg.blockmap",
+      "size": 148109,
+      "browser_download_url": "https://github.com/koko2376/lulux-eta/releases/download/v0.1.4.1/LULUX-ETA-0.1.4.1-mac-arm64.dmg.blockmap"
     },
     {
-      "name": "LULUX-ETA-0.1.4-mac-arm64.zip",
-      "size": 139197844,
-      "browser_download_url": "https://github.com/koko2376/lulux-eta/releases/download/v0.1.4/LULUX-ETA-0.1.4-mac-arm64.zip"
+      "name": "LULUX-ETA-0.1.4.1-mac-arm64.zip",
+      "size": 139207016,
+      "browser_download_url": "https://github.com/koko2376/lulux-eta/releases/download/v0.1.4.1/LULUX-ETA-0.1.4.1-mac-arm64.zip"
     },
     {
-      "name": "LULUX-ETA-0.1.4-mac-arm64.zip.blockmap",
-      "size": 146607,
-      "browser_download_url": "https://github.com/koko2376/lulux-eta/releases/download/v0.1.4/LULUX-ETA-0.1.4-mac-arm64.zip.blockmap"
+      "name": "LULUX-ETA-0.1.4.1-mac-arm64.zip.blockmap",
+      "size": 146530,
+      "browser_download_url": "https://github.com/koko2376/lulux-eta/releases/download/v0.1.4.1/LULUX-ETA-0.1.4.1-mac-arm64.zip.blockmap"
     },
     {
-      "name": "LULUX-ETA-0.1.4-mac-x64.dmg",
-      "size": 145866794,
-      "browser_download_url": "https://github.com/koko2376/lulux-eta/releases/download/v0.1.4/LULUX-ETA-0.1.4-mac-x64.dmg"
+      "name": "LULUX-ETA-0.1.4.1-mac-x64.dmg",
+      "size": 145902258,
+      "browser_download_url": "https://github.com/koko2376/lulux-eta/releases/download/v0.1.4.1/LULUX-ETA-0.1.4.1-mac-x64.dmg"
     },
     {
-      "name": "LULUX-ETA-0.1.4-mac-x64.dmg.blockmap",
-      "size": 154368,
-      "browser_download_url": "https://github.com/koko2376/lulux-eta/releases/download/v0.1.4/LULUX-ETA-0.1.4-mac-x64.dmg.blockmap"
+      "name": "LULUX-ETA-0.1.4.1-mac-x64.dmg.blockmap",
+      "size": 152831,
+      "browser_download_url": "https://github.com/koko2376/lulux-eta/releases/download/v0.1.4.1/LULUX-ETA-0.1.4.1-mac-x64.dmg.blockmap"
     },
     {
-      "name": "LULUX-ETA-0.1.4-mac-x64.zip",
-      "size": 142971056,
-      "browser_download_url": "https://github.com/koko2376/lulux-eta/releases/download/v0.1.4/LULUX-ETA-0.1.4-mac-x64.zip"
+      "name": "LULUX-ETA-0.1.4.1-mac-x64.zip",
+      "size": 142980228,
+      "browser_download_url": "https://github.com/koko2376/lulux-eta/releases/download/v0.1.4.1/LULUX-ETA-0.1.4.1-mac-x64.zip"
     },
     {
-      "name": "LULUX-ETA-0.1.4-mac-x64.zip.blockmap",
-      "size": 148043,
-      "browser_download_url": "https://github.com/koko2376/lulux-eta/releases/download/v0.1.4/LULUX-ETA-0.1.4-mac-x64.zip.blockmap"
+      "name": "LULUX-ETA-0.1.4.1-mac-x64.zip.blockmap",
+      "size": 148431,
+      "browser_download_url": "https://github.com/koko2376/lulux-eta/releases/download/v0.1.4.1/LULUX-ETA-0.1.4.1-mac-x64.zip.blockmap"
     },
     {
-      "name": "LULUX-ETA-0.1.4-win-x64-setup.exe",
-      "size": 127406218,
-      "browser_download_url": "https://github.com/koko2376/lulux-eta/releases/download/v0.1.4/LULUX-ETA-0.1.4-win-x64-setup.exe"
+      "name": "LULUX-ETA-0.1.4.1-win-x64-setup.exe",
+      "size": 127414905,
+      "browser_download_url": "https://github.com/koko2376/lulux-eta/releases/download/v0.1.4.1/LULUX-ETA-0.1.4.1-win-x64-setup.exe"
     },
     {
-      "name": "LULUX-ETA-0.1.4-win-x64-setup.exe.blockmap",
-      "size": 134949,
-      "browser_download_url": "https://github.com/koko2376/lulux-eta/releases/download/v0.1.4/LULUX-ETA-0.1.4-win-x64-setup.exe.blockmap"
+      "name": "LULUX-ETA-0.1.4.1-win-x64-setup.exe.blockmap",
+      "size": 135280,
+      "browser_download_url": "https://github.com/koko2376/lulux-eta/releases/download/v0.1.4.1/LULUX-ETA-0.1.4.1-win-x64-setup.exe.blockmap"
     },
     {
-      "name": "lulux-eta-server-v0.1.4.tar.gz",
-      "size": 14793883,
-      "browser_download_url": "https://github.com/koko2376/lulux-eta/releases/download/v0.1.4/lulux-eta-server-v0.1.4.tar.gz"
+      "name": "lulux-eta-server-v0.1.4.1.tar.gz",
+      "size": 14811487,
+      "browser_download_url": "https://github.com/koko2376/lulux-eta/releases/download/v0.1.4.1/lulux-eta-server-v0.1.4.1.tar.gz"
     },
     {
       "name": "SHA256SUMS.txt",
-      "size": 1639,
-      "browser_download_url": "https://github.com/koko2376/lulux-eta/releases/download/v0.1.4/SHA256SUMS.txt"
+      "size": 1665,
+      "browser_download_url": "https://github.com/koko2376/lulux-eta/releases/download/v0.1.4.1/SHA256SUMS.txt"
     }
   ]
 }
